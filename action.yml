@@ -1,7 +1,0 @@
-- name: Deploy
-  uses: tungly/midcitysecuritydistrict.org
-  with:
-    service_key: {{secrets.service_key}}
-    project: mid-city-security-district
-    home_page_path: /index.html
-    build_folder: ${{ github.workspace }}
