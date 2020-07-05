@@ -1,5 +1,5 @@
 - name: Deploy
-  uses: tbly/midcitysecuritydisrict.org
+  uses: tungly/midcitysecuritydisrtict.org
   with:
     service_key: {{secrets.service_key}}
     project: mid-city-security-district
